@@ -10,7 +10,7 @@ Usage:
 GITHUB CLI:
 gh repo clone AcaroMan/warframeAPI
 
-Windows
+Windows:
 
 git clone https://github.com/AcaroMan/warframeAPI.git
 
